@@ -28,7 +28,7 @@ export const Navbar = () => {
             className="cursor-pointer"
           />
           <span className="hidden sm:block text-white font-bold tracking-wide">
-            I'm Rahman | Devxora
+            Sathwik M | Full Stack Developer
           </span>
         </Link>
 
